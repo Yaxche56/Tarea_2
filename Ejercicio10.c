@@ -15,3 +15,4 @@ int main() {
     printf("Positivos: %d\nNegativos: %d\nNulos: %d\n", positivos, negativos, nulos);
     return 0;
 }
+ 
