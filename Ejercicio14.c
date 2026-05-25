@@ -23,3 +23,4 @@ int main() {
     printf("El numero %d aparece %d vez/veces.\n", objetivo, contador);
     return 0;
 }
+ 
