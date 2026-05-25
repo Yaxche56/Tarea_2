@@ -14,3 +14,4 @@ int main() {
     printf("Total a pagar: $%.2f\n", total_pagar);
     return 0;
 }
+ 
