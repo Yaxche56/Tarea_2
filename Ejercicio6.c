@@ -14,3 +14,4 @@ int main() {
     printf("Sueldo con aumento: $%.2f\n", sueldo);
     return 0;
 }
+ 
