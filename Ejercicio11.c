@@ -10,3 +10,4 @@ int main() {
     printf("La suma de los numeros pares entre 10 y 50 es: %d\n", suma);
     return 0;
 }
+ 
