@@ -9,3 +9,4 @@ int main() {
     printf("Equivalente en pesos: %.2f\n", pesos);
     return 0;
 }
+ 
