@@ -13,7 +13,7 @@ int main() {
     costo_ticket = distancia_total * precio_km;
     
     if (dias_estancia > 7 && distancia_total > 800) {
-        costo_ticket = costo_ticket * 0.70; // Aplica 30% de descuento
+        costo_ticket = costo_ticket * 0.70;
     }
     
     printf("El precio del ticket ida y vuelta es: $%.2f\n", costo_ticket);
