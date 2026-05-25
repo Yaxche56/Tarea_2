@@ -11,3 +11,4 @@ int main() {
     printf("Monto al finalizar el mes: %.2f\n", monto_final);
     return 0;
 }
+ 
